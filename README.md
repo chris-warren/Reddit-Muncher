@@ -5,10 +5,10 @@ It utilizes the vader sentiment analyzer from NLTK. Vader works best on small se
 
 The following features are then computed
 
-2) Mean of the compound score of each sentence in a post
-3) The compound score of the most positive sentence
-4) The compound score of the most negative sentence
-5) The mean negative score of all sentences
-6) The mean positive score of all sentences
+1) Mean of the compound score of each sentence in a post
+2) The compound score of the most positive sentence
+3) The compound score of the most negative sentence
+4) The mean negative score of all sentences
+5) The mean positive score of all sentences
 
 These scores are then averaged for every post seen that day and the number of posts on that day is also included in the data set.
