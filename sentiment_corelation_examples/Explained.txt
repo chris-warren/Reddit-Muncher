@@ -1,0 +1,1 @@
+These images are examples of sentiment datasets visualized ontop of stock performance. They are not the most informative because the number of posts was too low to visualize in a concrete manner, but they give you an idea.
